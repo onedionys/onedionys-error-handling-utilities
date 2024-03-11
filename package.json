@@ -1,6 +1,6 @@
 {
   "name": "onedionys-error-handling-utilities",
-  "version": "1.0.1",
+  "version": "4.0.0",
   "description": "One Dionys (Error Handling Utilities) - Functions to handle and report errors in the application.",
   "main": "src/errorHandling.js",
   "directories": {
